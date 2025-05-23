@@ -51,3 +51,11 @@ Ogni volta che:
 - non contratti “per paura di perdere l’offerta”...
 Stai LETTERALMENTE regalando soldi, tempo, potere contrattuale.
 In 5 anni, un/UNA dev che non negozia può perdere decine di migliaia di euro. E magari vede passare avanti gente meno competente ma più consapevole del proprio valore.
+
+
+## 2) Prima del colloquio: prepara il terreno
+Conoscere il proprio valore di mercato
+
+Prima di arrivare ad un colloquio (anzi, prima ancora di scrivere il cv, mandare candidature ed in generale pensare solo di approcciarti al mercato per cercare lavoro), è FONDAMENTALE sapere quanto vale il tuo profilo nel mercato attuale: questo ti permette di avere aspettative realistiche e di negoziare con cognizione di causa.
+Per approfondire e ottenere dati aggiornati puoi usare diverse fonti (Glassdoor, levels.fyi, techcompenso.com, Payscale, LinkedIn Salary), chiedere nelle communities, leggere le recensioni online, spulciare i bilanci (spoiler: sono spesso gratuiti e pubblici. Non vorrai mica farti assumere da un'azienda che sta fallendo, no?). 
+
