@@ -133,3 +133,30 @@ Sulla carta hanno lo stesso valore economico. Ma non sono per nulla equivalenti,
 Secondo un report di Stack Overflow Developer Survey, il 63% dei dev ha dichiarato che, a parità di RAL, sceglierebbe un’azienda con maggiore flessibilità o crescita ed il 40% dei dev che ha negoziato l’offerta iniziale ha ottenuto un aumento rispetto alla proposta iniziale.
 Inoltre, secondo Levels.fyi, nelle big tech USA una negoziazione ben fatta può portare a +10% di equity e +15–20% sul bonus. Anche in Italia, senza arrivare a questi livelli, una controproposta ragionata può spesso sbloccare 5–10K in più (se ben argomentata).
 
+## 5) Come fare una controproposta
+Fare una controproposta non è mai una mancanza di gratitudine, non è maleducazione nè arroganza. È una parte normale (e sana) di qualsiasi trattativa.
+Chi ti fa un’offerta si aspetta, in modo più o meno esplicito, che tu possa voler negoziare. Il modo in cui lo fai conta, certo, ma il fatto stesso di farlo non è un problema, anzi: dimostra che sai cosa vuoi, che conosci il mercato, che non sei alla ricerca disperata di “qualcosa, qualsiasi cosa, basta che mi assumete".
+Sii specifico! Non dire “vorrei qualcosa in più”, ma magari qualcosa del tipo “Mi aspettavo una RAL più vicina ai 55K, sulla base del ruolo, del mio background e dei benchmark che ho raccolto”.
+Argomenta, non supplicare! Non stai chiedendo un favore. Stai portando dati, facendo una proposta che ha senso per te. Se serve, evidenzia cosa stai portando in tavola: esperienza, impatto, autonomia, know-how raro.
+Mostrati aperto! Non devi tirare su un muro, prova ad essere assertivo/a. Una buona frase potrebbe ad esempio essere: “Mi piacerebbe trovare un punto d’incontro che valorizzi al meglio questa opportunità per entrambi”.
+Non andare in modalità "ultimatum"! A meno che tu non sia disposto a mollare tutto davvero, evita frasi come “o mi date 10K in più o niente”. Meglio: “Quello che mi blocca oggi nel dire sì è solo l’aspetto economico: se riuscissimo ad avvicinarci a X, accetterei volentieri”.
+Metti tutto in ordine scritto! Se la controproposta avviene al telefono o in call, manda un breve recap per iscritto. Avere tutto chiaro aiuta entrambe le parti.
+
+Un esempio pratico:
+
+**Email**
+
+Ciao [Nome],
+grazie per l’offerta e per la disponibilità mostrata durante tutto il processo.
+Mi ha fatto piacere riceverla, e sono molto interessato al progetto ed in generale sarei felice di entrare in [nome azienda].
+Ho valutato con attenzione i termini, e rispetto alle mie aspettative iniziali (costruite su ruolo, responsabilità, e benchmark di mercato), mi aspettavo una proposta leggermente più alta: idealmente intorno ai x–y K.
+Se riuscissimo ad avvicinarci a quel range — anche considerando eventuali benefit o alternative alla RAL pura — sarei felice di accettare e iniziare questa collaborazione.
+
+Questa rapida mail è empatica, lascia apertura, dimostra un ragionamento dietro al voler chiedere più soldi, lascia spazio ad un dialogo fra persone adulte (che, ovviamente, vogliono sì fare i "loro interessi" ma hanno evidentemente entrambe volontà di raggiungere un buon compromesso/accordo).
+
+E se va male?
+Eh, anche questo fa parte del gioco. Le strade possibili sono due:
+
+- Se il progetto ti entusiasma e la proposta è comunque dignitosa, puoi accettare e fissare già un check a 6 o 12 mesi con review della RAL.
+- Se invece senti che il valore che ti riconoscono è troppo distante da quello che meriti, allora declinare è un atto di lucidità, non di arroganza.
+
