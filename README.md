@@ -63,4 +63,73 @@ Conoscere il proprio valore di mercato
 Prima di arrivare ad un colloquio (anzi, prima ancora di scrivere il cv, mandare candidature ed in generale pensare solo di approcciarti al mercato per cercare lavoro), è FONDAMENTALE sapere quanto vale il tuo profilo nel mercato attuale: questo ti permette di avere aspettative realistiche e di negoziare con cognizione di causa.
 Prima di tutto, parti dagli elementi OGGETTIVI, misurabili, controllabili online e "reali". Ad esempio, per approfondire e ottenere dati aggiornati puoi usare diverse fonti (Glassdoor, levels.fyi, techcompenso.com, Payscale, LinkedIn Salary), chiedere nelle communities, leggere le recensioni online, spulciare i bilanci (spoiler: sono spesso gratuiti e pubblici. Non vorrai mica farti assumere da un'azienda che sta fallendo, no?). 
 Dopodiché aggiungi all'equazione gli elementi SOGGETTIVI e personali che ti riguardano: quanto mi serve per vivere? A quanto voglio arrivare come RAL? Remoto, ibrido, sede? Ho la macchina aziendale? Ho un mutuo? Figli? Cani? Procioni? Insomma, metti nell'equazione tutta una serie di elementi della tua persona che ovviamente conosci solo, in modo tale da unire gli elementi oggettivi con i soggettivi ed avere un'idea oggettiva di un range numerico nel quale vorresti stare.
+Oltre ai numeri, è importante ad esempio analizzare l'azienda: dimensioni, settore, fase di crescita e cultura aziendale possono influenzare la capacità e la volontà di offrire determinati pacchetti retributivi.
+IMPORTANTISSIMO: prima di arrivare al colloquio è FONDAMENTALE non fornire mai dati come RAL attuale, busta paga o altre informazioni del genere. Come mai? Beh, perché dando questi dati sostanzialmente perdi il 99% del tuo potere negoziale.
+E' assolutamente legale chiedere la busta paga (molti pensano che sia illegale), ma è altrettanto lecito rifiutarsi di fornirla. 
+Inoltre, è sempre bene parlare di soldi SUBITO, sin dal primo contatto (con recruiter, HR, head hunter, whatever). "La mia desiderata è x, sono in cerca di un range fra x e y o frasi similari mettono l'accento sul fatto che a) sapete quanto volete/valete/cercate b) dettate voi le cifre c) vi aiuta a non perdere tempo eliminando da subito iter di selezione che porterebbero a RAL non in linea con quanto state cercando.
+
+
+
+## 3) Durante la selezione: gioca bene le tue carte
+Il colloquio non è un esame, non sei lì per essere giudicato/a. Sei lì per capire se quella proposta è giusta per te, e viceversa. Ah e ricorda, il colloquio è SEMPRE a due vie: l'azienda ti sta valutando, certo, ma sei anche tu che valuti l'azienda.
+
+tanti/e dev entrano in fase di selezione con un atteggiamento passivo, quasi remissivo, come se dovessero solo sperare che "vada bene" (aka: prendo quello che capita/offrono), approccio sbagliatissimo! Ma se affronti la selezione come un one-way ticket verso il sì o il no, stai buttando via una parte importante del processo: la possibilità di orientarlo.
+Come ho già scritto nel punto precedente, ma mi ripeto: parlare di RAL? Prima è meglio! Uno degli errori più comuni è evitare di parlare di retribuzione finché non viene chiesto. 
+Ma più tardi si parla di RAL, più rischi che ci siano incomprensioni o aspettative non allineate.
+
+Puoi anche non dare un numero preciso subito, ma almeno accertati di chiarire almeno:
+
+- Qual è il range su cui si sta ragionando?
+- È compatibile con le tue aspettative minime?
+- L’azienda ha margini di manovra o è “budget-locked”?
+- Se hai fatto bene il lavoro del punto 2 (ricerca e benchmark), qui non stai improvvisando: stai gestendo un’informazione fondamentale.
+
+Un'altra cosa utilissima (ed anche banale direi, ma che molte persone non fanno) è: FATE DOMANDE.  Non sei lì solo per rispondere. Sei lì anche per fare domande! E quelle giuste possono aiutarti a capire molto sul potenziale di crescita e sul valore che l’azienda assegna ai suoi developer.
+
+[link al repo reverse interview]
+
+In questa fase, il tuo obiettivo non è sembrare perfetto (nessuno/a è perfetto, l'azienda perfetta non esiste così come non esiste il/la candidato/a perfetto/a). È, banalmente, farti scegliere per i motivi giusti. Se ti presenti come “persona che va bene per qualsiasi ruolo a qualsiasi condizione”, trasmetti incertezza. Se invece fai capire cosa cerchi, quali sono i tuoi punti di forza, quali leve ti motivano — stai facendo personal branding in tempo reale.
+Essere chiari sin da subito su cosa vuoi non ti rende arrogante, ti rende allineabile. E rende più facile per l’altra parte costruire un’offerta adatta.
+
+Esempio pratico:
+"In base al mio attuale ruolo e ai benchmark che ho raccolto, mi aspetto un range che oscilla tra i 45 e i 55K, in base anche a benefit, remote policy e benefit. Voi in che range vi muovete per questo tipo di profilo?”
+Secondo una ricerca di Payscale, chi non negozia lo stipendio iniziale perde in media 1 milione di dollari lungo tutta la carriera (dato USA, ma l’effetto composizione vale ovunque).
+E secondo Hired’s State of Salaries Report, i dev che dichiarano le proprie aspettative troppo basse ricevono offerte inferiori del 10-15% rispetto alla media per lo stesso ruolo.
+
+## 4) Ricevere un’offerta: come valutarla e cosa puoi negoziare
+Finalmente arriva l’offerta. Wow. Cuoricini. Emozione. E adesso?
+
+Il momento in cui ti arriva una proposta non è il finale del processo. È l’inizio della trattativa vera. Anche se l’offerta ti sembra buona, non devi per forza dire “sì” subito. Devi valutarla. Devi leggerla a freddo. Devi ricordarti che è un’offerta, non un premio.
+
+Una RAL da sola non dice tutto. Ecco cosa guardare, prima di rispondere:
+- RAL (Retribuzione Annua Lorda): occhio se non è chiaro se include variabili o bonus.
+- Bonus, stock, MBO: sono garantiti? Variabili? A obiettivo? A discrezione?
+- Benefit: buoni pasto, assicurazione sanitaria, budget per la formazione, smart working reale o finto?
+- Inquadramento: sei assunto come dipendente o sei un finto freelance con partita IVA?
+- Orari e flessibilità: full remote? Flessibilità reale? O la classica azienda giovane e dinamica che cerca persone che lavorano "senza orari" (aka: rimani tutti i giorni fino alle 20.00)?
+
+C'è qualcosa sulla quale si può negoziare? Spoiler: QUASI TUTTO! Ad esempio:
+
+- RAL: ovviamente.
+- Bonus e variabili: puoi chiedere che vengano rivisti, garantiti, o trasformati in fissi.
+- Livello contrattuale: impatta su ferie, TFR, maternità/paternità, e future tutele.
+- Remote policy: full remote oggi? Domani? Per sempre?
+- Orari: flessibilità, orari compatti, 4-day week? A volte si può chiedere.
+- Formazione: budget annuale, tempo dedicato, conferenze.
+- Equipment: laptop, monitor, sedie, budget per il setup.
+- Job title: può cambiare la tua spendibilità sul mercato.
+- Onboarding e affiancamento: è previsto? È fatto bene?
+
+Pro tip: se non possono salire di RAL, chiedi benefit con valore economico reale. Un’azienda che dice “non possiamo aumentare la RAL ma vogliamo tanto averti con noi” dovrebbe dimostrarlo con qualcosa di concreto.
+
+Esempio pratico di valutazione:
+
+Immagina due offerte con la stessa RAL:
+Offerta A: 40K RAL + full remote + 2.000€ budget formazione + assicurazione sanitaria + PC aziendale top.
+Offerta B: 40K RAL + 3 giorni in sede + niente formazione + laptop de mi nonno + una pacca sulla spalla
+
+Sulla carta hanno lo stesso valore economico. Ma non sono per nulla equivalenti, e a lungo termine la A ti dà più strumenti per crescere, studiare, e vivere meglio.
+
+Secondo un report di Stack Overflow Developer Survey, il 63% dei dev ha dichiarato che, a parità di RAL, sceglierebbe un’azienda con maggiore flessibilità o crescita ed il 40% dei dev che ha negoziato l’offerta iniziale ha ottenuto un aumento rispetto alla proposta iniziale.
+Inoltre, secondo Levels.fyi, nelle big tech USA una negoziazione ben fatta può portare a +10% di equity e +15–20% sul bonus. Anche in Italia, senza arrivare a questi livelli, una controproposta ragionata può spesso sbloccare 5–10K in più (se ben argomentata).
 
