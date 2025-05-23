@@ -38,6 +38,8 @@ Come tutto il resto del tuo lavoro.
 
 
 🔥 Il mito della meritocrazia
+
+
 Quante volte hai pensato o sentito dire:
 “Se faccio bene il mio lavoro, prima o poi qualcuno se ne accorgerà.”
 Falso.
@@ -45,6 +47,8 @@ Il mondo del lavoro non è una quest di Skyrim in cui basta grindare e alla fine
 
 
 💸 Il prezzo della passività
+
+
 Ogni volta che:
 - accetti una RAL “perché mi sembrava già alta”,
 - non chiedi nulla “per non sembrare esagerato”,
@@ -57,5 +61,6 @@ In 5 anni, un/UNA dev che non negozia può perdere decine di migliaia di euro. E
 Conoscere il proprio valore di mercato
 
 Prima di arrivare ad un colloquio (anzi, prima ancora di scrivere il cv, mandare candidature ed in generale pensare solo di approcciarti al mercato per cercare lavoro), è FONDAMENTALE sapere quanto vale il tuo profilo nel mercato attuale: questo ti permette di avere aspettative realistiche e di negoziare con cognizione di causa.
-Per approfondire e ottenere dati aggiornati puoi usare diverse fonti (Glassdoor, levels.fyi, techcompenso.com, Payscale, LinkedIn Salary), chiedere nelle communities, leggere le recensioni online, spulciare i bilanci (spoiler: sono spesso gratuiti e pubblici. Non vorrai mica farti assumere da un'azienda che sta fallendo, no?). 
+Prima di tutto, parti dagli elementi OGGETTIVI, misurabili, controllabili online e "reali". Ad esempio, per approfondire e ottenere dati aggiornati puoi usare diverse fonti (Glassdoor, levels.fyi, techcompenso.com, Payscale, LinkedIn Salary), chiedere nelle communities, leggere le recensioni online, spulciare i bilanci (spoiler: sono spesso gratuiti e pubblici. Non vorrai mica farti assumere da un'azienda che sta fallendo, no?). 
+Dopodiché aggiungi all'equazione gli elementi SOGGETTIVI e personali che ti riguardano: quanto mi serve per vivere? A quanto voglio arrivare come RAL? Remoto, ibrido, sede? Ho la macchina aziendale? Ho un mutuo? Figli? Cani? Procioni? Insomma, metti nell'equazione tutta una serie di elementi della tua persona che ovviamente conosci solo, in modo tale da unire gli elementi oggettivi con i soggettivi ed avere un'idea oggettiva di un range numerico nel quale vorresti stare.
 
