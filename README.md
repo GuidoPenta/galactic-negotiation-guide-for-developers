@@ -35,3 +35,19 @@ Negoziare vuol dire prenderti la responsabilità di far valere quello che porti,
 Bada bene: nessuno ti regalerà niente, e non è perché il mondo è cattivo. È perché nessuno conosce meglio di te il tuo contributo, il tuo potenziale, la tua evoluzione. Se non impari a comunicarlo tu, non lo farà nessun altro. O peggio: lo farà qualcun altro al posto tuo, e magari lo farà male.
 In questa guida vedremo come trattare la negoziazione come si deve: non come un talento magico per chi ha la parlantina, ma come una serie di strumenti, strategie e mindset che puoi imparare, testare, iterare.
 Come tutto il resto del tuo lavoro.
+
+
+🔥 Il mito della meritocrazia
+Quante volte hai pensato o sentito dire:
+“Se faccio bene il mio lavoro, prima o poi qualcuno se ne accorgerà.”
+Falso.
+Il mondo del lavoro non è una quest di Skyrim in cui basta grindare e alla fine ti danno la spada leggendaria. Senza consapevolezza, visibilità e negoziazione, il tuo valore resta invisibile. E se non lo rendi visibile tu, non lo farà nessun altro.
+
+
+💸 Il prezzo della passività
+Ogni volta che:
+- accetti una RAL “perché mi sembrava già alta”,
+- non chiedi nulla “per non sembrare esagerato”,
+- non contratti “per paura di perdere l’offerta”...
+Stai LETTERALMENTE regalando soldi, tempo, potere contrattuale.
+In 5 anni, un/UNA dev che non negozia può perdere decine di migliaia di euro. E magari vede passare avanti gente meno competente ma più consapevole del proprio valore.
