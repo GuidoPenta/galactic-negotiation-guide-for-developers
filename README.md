@@ -37,7 +37,7 @@ Bene, direi che possiamo partire!
 
 🔮 7. [Bonus track: negoziazione avanzata](#7-negoziazione-avanzata)
 
-🌵 8. [Bonus track 2: junior vs senior](#8-junior-vs-senior)
+🌵 8. [Bonus track #2: junior vs senior](#8-junior-vs-senior)
 
 
 
@@ -105,7 +105,7 @@ Inoltre, è sempre bene parlare di soldi SUBITO, sin dal primo contatto (con rec
 
 
 
-##  3) Durante la selezione: gioca bene le tue carte
+##  3) Gioca bene le tue carte
 Il colloquio non è un esame, non sei lì per essere giudicato/a. Sei lì per capire se quella proposta è giusta per te, e viceversa. Ah e ricorda, il colloquio è SEMPRE a due vie: l'azienda ti sta valutando, certo, ma sei anche tu che valuti l'azienda.
 
 tanti/e dev entrano in fase di selezione con un atteggiamento passivo, quasi remissivo, come se dovessero solo sperare che "vada bene" (aka: prendo quello che capita/offrono), approccio sbagliatissimo! Ma se affronti la selezione come un one-way ticket verso il sì o il no, stai buttando via una parte importante del processo: la possibilità di orientarlo.
@@ -136,7 +136,7 @@ E secondo Hired’s State of Salaries Report, i dev che dichiarano le proprie as
 
 
 
-##  4) Ricevere un’offerta: come valutarla e cosa puoi negoziare
+##  4) Negoziare sul serio
 _Finalmente arriva l’offerta. E adesso?_
 
 Il momento in cui ti arriva una proposta non è il finale del processo. È l’inizio della trattativa vera. Anche se l’offerta ti sembra buona, non devi per forza dire “sì” subito. Devi valutarla. Devi leggerla a freddo. Devi ricordarti che è un’offerta, non un premio.
@@ -175,7 +175,7 @@ Inoltre, secondo Levels.fyi, nelle big tech USA una negoziazione ben fatta può 
 
 
 
-##  5) Come fare una controproposta
+##  5) La controproposta
 _Fare una controproposta non è mai una mancanza di gratitudine, non è maleducazione nè arroganza. È una parte normale (e sana) di qualsiasi trattativa._
 
 
@@ -263,7 +263,7 @@ Se senti che il “no” è definitivo, o che non c’è una reale volontà di r
 
   
 
-##  7) Negoziazione avanzata
+##  7) Bonus track: Negoziazione avanzata
 
 La paura di sembrare “troppo”, “ingrati”, “difficili” è reale. Sento sempre un sacco di dev parlare di "sindrome dell'impostore", di sentirsi bloccati, di avere "ansia" di chiedere (ed, in generale, c'è ancora un taboo fortissimo sul tema dei soldi).
 Soprattutto se poi sei cresciuto/a con l’idea che “se lavori bene, ti noteranno” o che “parlare di soldi è volgare”.
@@ -282,7 +282,7 @@ Potresti pensare a qualcosa del genere: “Stiamo valutando insieme come far fun
 
 
 
-## 8) Altro bonus: junior vs senior
+## 8) Bonus track #2: junior vs senior
 
 Negoziare non è un’abilità universale applicata sempre allo stesso modo: cambia un botto a seconda di dove ti trovi nel tuo percorso professionale. Che tu sia junior, mid o senior, puoi e devi (anzi, dovresti) negoziare, ma è fondamentale adattare il come e il cosa porti in trattativa. Le aspettative devono essere realistiche, ma mai al ribasso.
 
