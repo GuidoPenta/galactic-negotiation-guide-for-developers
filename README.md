@@ -19,15 +19,17 @@ Bene, direi che possiamo partire!
 
 🔧 1. [Negoziare è una abilità tecnica](#1-negoziare-e-una-abilita-tecnica)
 
-💼 2. [Prima del colloquio: prepara il terreno](#2prima-del-colloquio-prepara-il-terreno)
+💼 2. [Prima del colloquio: prepara il terreno](#2-prima-del-colloquio-prepara-il-terreno)
 
-📈 3. Durante la selezione: gioca bene le tue carte
+📈 3. [Gioca bene le tue carte](#3-gioca-bene-le-tue-carte)
 
-🛠️ 4. Dopo l’offerta: negoziare sul serio
+🛠️ 4. [Negoziare sul serio](#4-negozia-sul-serio)
 
-🏢 5. Sei già assunto/a? Come chiedere un aumento
+🏢 5. [La controproposta](#5-la-controproposta)
 
-🔮 6. Bonus track: negoziazione avanzata
+🛠️ 6. [Come chiedere un aumento](#6-come-chiedere-un-aumento)
+
+🔮 7. [Bonus track: negoziazione avanzata](#7-negoziazione-avanzata)
 
 
 
