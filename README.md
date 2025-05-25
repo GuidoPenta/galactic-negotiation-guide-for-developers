@@ -17,7 +17,7 @@ Bene, direi che possiamo partire!
 
 ## Indice
 
-🔧 1. [Negoziare è una abilità tecnica](#1-negoziare-e-una-abilita-tecnica)
+🔧 1. [Negoziare è una abilità tecnica](#1-negoziare-è-una-abilita-tecnica)
 
 💼 2. [Prima del colloquio: prepara il terreno](#2-prima-del-colloquio-prepara-il-terreno)
 
