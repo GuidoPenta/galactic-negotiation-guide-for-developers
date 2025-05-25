@@ -44,7 +44,7 @@ Bene, direi che possiamo partire!
 
 
 ##  1) Negoziare è una abilità tecnica
-Perché devi imparare a negoziare (spoiler: è parte del tuo stack)
+_Perché devi imparare a negoziare (spoiler: è parte del tuo stack)_
 
 TL;DR:
 Se non sai negoziare, perdi soldi. Sempre. E spesso nemmeno te ne accorgi. Molti vedono la negoziazione come qualcosa di sporco, manipolativo o “da venditore di fuffa”. Spoiler: è l’opposto.
@@ -52,7 +52,7 @@ Se non sai negoziare, perdi soldi. Sempre. E spesso nemmeno te ne accorgi. Molti
 Negoziare significa fare in modo che il tuo lavoro venga valutato in modo corretto. È una conversazione, non un conflitto. È un confronto tra due parti che vogliono collaborare, ma hanno interessi (legittimamente) diversi. Parliamoci chiaro: l'azienda non è una Onlus, e molto spesso
 l'obiettivo dell'azienda è pagarti il minimo pur di assumerti. Tu, dall'altro lato, devi essere capace di far percepire il tuo valore (professionale, umano, di bagaglio pregresso, etc).
 
-Nel mondo reale non ci sono quest invisibili che si completano in background mentre scrivi buon codice. Se vuoi che il tuo valore venga riconosciuto — e pagato — devi saperlo negoziare. Ho conosciuto tantissimi bravi dev totalmente sottopagati perché, banalmente, non hanno saputo negoziare RAL decenti (o che, peggio ancora, rimangono immobili da anni nella loro azienda attuale senza essere in grado di chiedere più soldi).
+Nel mondo reale non ci sono quest invisibili che si completano in background mentre scrivi buon codice. Se vuoi che il tuo valore venga riconosciuto devi saperlo negoziare. Ho conosciuto tantissimi bravi dev totalmente sottopagati perché, banalmente, non hanno saputo negoziare RAL decenti (o che, peggio ancora, rimangono immobili da anni nella loro azienda attuale senza essere in grado di chiedere più soldi).
 
 Negoziare non significa fregare l’altro/a, attenzione: significa trovare un accordo che sia sostenibile per entrambe le parti. È una skill comunicativa, ma soprattutto analitica: ci sono interessi da allineare, vincoli da capire, leve da usare. È roba tecnica, è problem solving. 
 Il che ci porta al punto cruciale: negoziare, per come la vedo io, è a tutti gli effetti una competenza tecnica. Se ottimizzi query SQL, puoi ottimizzare anche la tua prossima RAL.
@@ -62,7 +62,7 @@ Il prezzo del non saperlo fare è altissimo! Ogni volta che accetti una proposta
 Negoziare vuol dire prenderti la responsabilità di far valere quello che porti, la persona che sei, i problemi che risolvi, il business che fai crescere, le esperienze pregresse che hai nella tua "cassetta degli attrezzi".
 Bada bene: nessuno ti regalerà niente, e non è perché il mondo è cattivo. È perché nessuno conosce meglio di te il tuo contributo, il tuo potenziale, la tua evoluzione. Se non impari a comunicarlo tu, non lo farà nessun altro. O peggio: lo farà qualcun altro al posto tuo, e magari lo farà male.
 
-In questa guida vedremo come trattare la negoziazione come si deve: non come un talento magico per chi ha la parlantina, ma come una serie di strumenti, strategie e mindset che puoi imparare, testare, iterare.
+In questa guida vedremo come trattare la negoziazione come si deve: non come un talento magico per chi ha la parlantina, ma come una serie di strumenti, strategie e "mindset" che puoi imparare, testare, iterare.
 Come tutto il resto del tuo lavoro.
 
 
@@ -70,8 +70,7 @@ Come tutto il resto del tuo lavoro.
 
 
 Quante volte hai pensato o sentito dire:
-“Se faccio bene il mio lavoro, prima o poi qualcuno se ne accorgerà.”
-Falso.
+“Se faccio bene il mio lavoro, prima o poi qualcuno se ne accorgerà.” Falso. FALSISSIMO!
 Il mondo del lavoro non è una quest di Skyrim in cui basta grindare e alla fine ti danno la spada leggendaria. Senza consapevolezza, visibilità e negoziazione, il tuo valore resta invisibile. E se non lo rendi visibile tu, non lo farà nessun altro.
 
 
@@ -89,7 +88,7 @@ In 5 anni, un/UNA dev che non negozia può perdere decine di migliaia di euro. E
 
 
 ##  2) Prima del colloquio: prepara il terreno
-Conoscere il proprio valore di mercato
+_Conoscere il proprio valore di mercato_
 
 Prima di arrivare ad un colloquio (anzi, prima ancora di scrivere il cv, mandare candidature ed in generale pensare solo di approcciarti al mercato per cercare lavoro), è FONDAMENTALE sapere quanto vale il tuo profilo nel mercato attuale: questo ti permette di avere aspettative realistiche e di negoziare con cognizione di causa.
 Prima di tutto, parti dagli elementi OGGETTIVI, misurabili, controllabili online e "reali". Ad esempio, per approfondire e ottenere dati aggiornati puoi usare diverse fonti (Glassdoor, levels.fyi, techcompenso.com, Payscale, LinkedIn Salary), chiedere nelle communities, leggere le recensioni online, spulciare i bilanci (spoiler: sono spesso gratuiti e pubblici. Non vorrai mica farti assumere da un'azienda che sta fallendo, no?). 
@@ -123,7 +122,7 @@ Puoi anche non dare un numero preciso subito, ma almeno accertati di chiarire al
 
 Un'altra cosa utilissima (ed anche banale direi, ma che molte persone non fanno) è: FATE DOMANDE.  Non sei lì solo per rispondere. Sei lì anche per fare domande! E quelle giuste possono aiutarti a capire molto sul potenziale di crescita e sul valore che l’azienda assegna ai suoi developer.
 
-[link al repo reverse interview]
+(se vuoi un buon elenco di communities, eccolo  <a href="https://github.com/GuidoPenta/awesome-italian-tech-communities">qui</a> )
 
 In questa fase, il tuo obiettivo non è sembrare perfetto (nessuno/a è perfetto, l'azienda perfetta non esiste così come non esiste il/la candidato/a perfetto/a). È, banalmente, farti scegliere per i motivi giusti. Se ti presenti come “persona che va bene per qualsiasi ruolo a qualsiasi condizione”, trasmetti incertezza. Se invece fai capire cosa cerchi, quali sono i tuoi punti di forza, quali leve ti motivano — stai facendo personal branding in tempo reale.
 
@@ -138,7 +137,7 @@ E secondo Hired’s State of Salaries Report, i dev che dichiarano le proprie as
 
 
 ##  4) Ricevere un’offerta: come valutarla e cosa puoi negoziare
-Finalmente arriva l’offerta. Wow. Cuoricini. Emozione. E adesso?
+_Finalmente arriva l’offerta. E adesso?_
 
 Il momento in cui ti arriva una proposta non è il finale del processo. È l’inizio della trattativa vera. Anche se l’offerta ti sembra buona, non devi per forza dire “sì” subito. Devi valutarla. Devi leggerla a freddo. Devi ricordarti che è un’offerta, non un premio.
 
@@ -177,19 +176,19 @@ Inoltre, secondo Levels.fyi, nelle big tech USA una negoziazione ben fatta può 
 
 
 ##  5) Come fare una controproposta
-Fare una controproposta non è mai una mancanza di gratitudine, non è maleducazione nè arroganza. È una parte normale (e sana) di qualsiasi trattativa.
+_Fare una controproposta non è mai una mancanza di gratitudine, non è maleducazione nè arroganza. È una parte normale (e sana) di qualsiasi trattativa._
 
 
 Chi ti fa un’offerta si aspetta, in modo più o meno esplicito, che tu possa voler negoziare. Il modo in cui lo fai conta, certo, ma il fatto stesso di farlo non è un problema, anzi: dimostra che sai cosa vuoi, che conosci il mercato, che non sei alla ricerca disperata di “qualcosa, qualsiasi cosa, basta che mi assumete".
 
-Sii specifico! Non dire “vorrei qualcosa in più”, ma magari qualcosa del tipo “Mi aspettavo una RAL più vicina ai 55K, sulla base del ruolo, del mio background e dei benchmark che ho raccolto”.
+Sii specifico/a! Non dire “vorrei qualcosa in più”, ma magari qualcosa del tipo “Mi aspettavo una RAL più vicina ai 55K, sulla base del ruolo, del mio background e dei benchmark che ho raccolto”.
 Argomenta, non supplicare! Non stai chiedendo un favore. Stai portando dati, facendo una proposta che ha senso per te. Se serve, evidenzia cosa stai portando in tavola: esperienza, impatto, autonomia, know-how raro.
 
 Mostrati aperto! Non devi tirare su un muro, prova ad essere assertivo/a. Una buona frase potrebbe ad esempio essere: “Mi piacerebbe trovare un punto d’incontro che valorizzi al meglio questa opportunità per entrambi”.
 
-
 Non andare in modalità "ultimatum"! A meno che tu non sia disposto a mollare tutto davvero, evita frasi come “o mi date 10K in più o niente”. Meglio: “Quello che mi blocca oggi nel dire sì è solo l’aspetto economico: se riuscissimo ad avvicinarci a X, accetterei volentieri”.
 Metti tutto in ordine scritto! Se la controproposta avviene al telefono o in call, manda un breve recap per iscritto. Avere tutto chiaro aiuta entrambe le parti.
+
 
 Un esempio pratico:
 
@@ -265,7 +264,6 @@ Se senti che il “no” è definitivo, o che non c’è una reale volontà di r
   
 
 ##  7) Negoziazione avanzata
-
 
 La paura di sembrare “troppo”, “ingrati”, “difficili” è reale. Sento sempre un sacco di dev parlare di "sindrome dell'impostore", di sentirsi bloccati, di avere "ansia" di chiedere (ed, in generale, c'è ancora un taboo fortissimo sul tema dei soldi).
 Soprattutto se poi sei cresciuto/a con l’idea che “se lavori bene, ti noteranno” o che “parlare di soldi è volgare”.
