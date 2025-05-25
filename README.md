@@ -219,3 +219,10 @@ Se senti che il “no” è definitivo, o che non c’è una reale volontà di r
 
 ##  7) Negoziazione avanzata
 
+
+La paura di sembrare “troppo”, “ingrati”, “difficili” è reale. Sento sempre un sacco di dev parlare di "sindrome dell'impostore", di sentirsi bloccati, di avere "ansia" di chiedere (ed, in generale, c'è ancora un taboo fortissimo sul tema dei soldi).
+Soprattutto se poi sei cresciuto/a con l’idea che “se lavori bene, ti noteranno” o che “parlare di soldi è volgare”.
+Spoiler: non lo è AFFATTO. Arispoiler 2: non sei strano/a tu. È che nessuno/a ti insegna a negoziare (manco a me l'ha insegnato nessuno/a, ci ho sbattuto il muso per anni!)
+
+Questa sezione serve a darti strumenti pratici per negoziare meglio, anche se ti viene l’ansia solo all’idea di chiedere qualcosa.
+
