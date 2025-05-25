@@ -17,9 +17,9 @@ Bene, direi che possiamo partire!
 
 ## Indice
 
-🔧 1. Negoziare è un’abilità tecnica
+🔧 1. [Negoziare è una abilità tecnica](#1-negoziare-e-una-abilita-tecnica)
 
-💼 2. Prima del colloquio: preparare il terreno e studiare il mercato
+💼 2. [Prima del colloquio: prepara il terreno](#2prima-del-colloquio-prepara-il-terreno)
 
 📈 3. Durante la selezione: gioca bene le tue carte
 
@@ -31,7 +31,7 @@ Bene, direi che possiamo partire!
 
 
 
-## 1) Negoziare è un'abilità (tecnica)
+## 1) Negoziare è una abilità tecnica
 Perché devi imparare a negoziare (spoiler: è parte del tuo stack)
 
 💡 TL;DR:
