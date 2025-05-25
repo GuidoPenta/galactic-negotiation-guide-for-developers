@@ -29,7 +29,7 @@ Bene, direi che possiamo partire!
 
 📈 3. [Gioca bene le tue carte](#3-gioca-bene-le-tue-carte)
 
-🛠️ 4. [Negoziare sul serio](#4-negozia-sul-serio)
+🛠️ 4. [Negoziare sul serio](#4-negoziare-sul-serio)
 
 🏢 5. [La controproposta](#5-la-controproposta)
 
