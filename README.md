@@ -35,9 +35,9 @@ Bene, direi che possiamo partire!
 
 🛠️ 6. [Come chiedere un aumento](#6-come-chiedere-un-aumento)
 
-🔮 7. [Bonus track: negoziazione avanzata](#7-negoziazione-avanzata)
+🔮 7. [Bonus track: negoziazione avanzata](#7-bonus-track-negoziazione-avanzata)
 
-🌵 8. [Bonus track #2: junior vs senior](#8-junior-vs-senior)
+🌵 8. [Bonus track #2: junior vs senior](#8-bonus-track-#2-junior-vs-senior)
 
 
 
