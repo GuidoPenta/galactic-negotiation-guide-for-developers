@@ -3,7 +3,7 @@
 _Sottotitolo: Come negoziare la tua RAL senza ansia, senza perdere offerte, e senza passare per un/una mercenario/a_
 
 
-Disclamier #1: ho voluto scrivere questa guida perché non si parla mai troppo di soldi. E, come ho scritto nel sottotitolo, non è un tema di essere mercenari: è un tema di consapevolezza, di valore, di cercare di ottenere il giusto, di farsi valere.
+Disclaimer #1: ho voluto scrivere questa guida perché non si parla mai troppo di soldi. E, come ho scritto nel sottotitolo, non è un tema di essere mercenari: è un tema di consapevolezza, di valore, di cercare di ottenere il giusto, di farsi valere.
 
 Dopo tanti anni di colloqui, di aziende, di candidati/e, di "vorremmo pagarlo x", di "vorrei essere pagato y", di communities, di eventi, di "raga l'azienda mi ha offerto x che faccio", di annunci con "RAL commisurata all'esperienza" ho voluto portare un mio personale contributo al tema, scrivendo una guida che, come leggerete immediatamente sotto, contiene un paio di consigli assolutamente personali e che poi penso possa fornire tutti gli strumenti utili per gestire una negoziazione sana, corretta, funzionale all'obiettivo.
 
