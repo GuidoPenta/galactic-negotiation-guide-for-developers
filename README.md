@@ -3,6 +3,18 @@
 _Sottotitolo: Come negoziare la tua RAL senza ansia, senza perdere offerte, e senza passare per un/una mercenario/a_
 
 
+Disclamier #1: ho voluto scrivere questa guida perché non si parla mai troppo di soldi. E, come ho scritto nel sottotitolo, non è un tema di essere mercenari: è un tema di consapevolezza, di valore, di cercare di ottenere il giusto, di farsi valere.
+Dopo tanti anni di colloqui, di aziende, di candidati/e, di "vorremmo pagarlo x", di "vorrei essere pagato y", di communities, di eventi, di "raga l'azienda mi ha offerto x che faccio", di annunci con "RAL commisurata all'esperienza" ho voluto portare un mio personale contributo al tema, scrivendo una guida che, come leggerete immediatamente sotto, contiene un paio di consigli assolutamente personali e che poi penso possa fornire tutti gli strumenti utili per gestire una negoziazione sana, corretta, funzionale all'obiettivo.
+Ecco quindi un paio di considerazioni da tenere a mente PRIMA di leggere questa guida:
+- Non pensate al giudizio/allo status delle altre persone: se in una community c'è gente che flexa la sua RAL da millemila miliardi di euro, non fatevi prendere dall'ansia o sindrome dell' impostore: ognuno di noi ha il suo percorso, la sua storia, le sue conoscenze/network, il suo percorso. Se loro ci sono arrivati e voi no, prendetelo come uno spunto di miglioramento e non come "ah vedi lui sta là, io non ci arriverò mai perché sono sfigato/scarso/etc. 
+- Non dobbiamo essere tutti/e delle rockstar: fare l'operaio del codice, fare il "normale" 9-18 in una "normale " azienda VA BENISSIMO! Non tutti dobbiamo per forza aspirare alla super azienda fighissima che manda razzi su marte. C'è però da porre l'attenzione su un punto importantissimo: ok essere dipendenti "normali", ma non facciamoci prendere in giro da aziende con mille Red flag che non ci fanno crescere professionalmente, che non ci trattano dignitosamente, che non ci pagano quanto dovrebbero. Operaio sì, ma non stronzo/a!
+- E' normale parlare di soldi, abituatevi: non se ne parla mai abbastanza, i soldi sono un tabù, "che schifo i soldi". Ed invece no: nessuno/a di noi lavora per la gloria, tutti/e lavoriamo per i soldi. Quindi, di soldi bisogna parlarne SEMPRE E SUBITO (che sia un messaggio ricevuto da un/una recruiter, durante un colloquio, quando si arriva in un'azienda, etc etc). I soldi non sono tutto, ma chiariamo un punto: il lavoro è (banalmente) un tradeoff fra il vostro tempo e le vostre conoscenze e il bisogno dell'azienda. E' uno scambio (valore vs stipendio). So che forse è molto riduttivo vederla in questo modo ma quando bisogna affrontare una negoziazione, ahimé, bisogna "spegnere il cuore" ed "accendere il cervello" e vederla in maniera scientifica e razionale.
+
+Disclaimer #2: buona parte di questa guida è scritta con l'ausilio dell'AI. Nessun becero copia-incolla ma un lavoro congiunto di indice, argomenti migliori, spunti di riflessione, fonti e dati di mercato. Ormai l'AI (nello specifico, Chatgpt) lavora fianco a fianco con me da mesi e conosce quasi perfettamente il mio tone of voice, e ci sono molte cose che l'AI ha scritto che avrei scritto io quasi del tutto. 
+
+Bene, direi che possiamo partire!
+
+
 ## Indice
 
 🔧 1. Negoziare è un’abilità tecnica
