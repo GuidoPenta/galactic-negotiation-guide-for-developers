@@ -85,6 +85,9 @@ Stai LETTERALMENTE regalando soldi, tempo, potere contrattuale.
 In 5 anni, un/UNA dev che non negozia può perdere decine di migliaia di euro. E magari vede passare avanti gente meno competente ma più consapevole del proprio valore.
 
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 
 ##  2) Prima del colloquio: prepara il terreno
@@ -103,6 +106,9 @@ E' assolutamente legale chiedere la busta paga (molti pensano che sia illegale),
 Inoltre, è sempre bene parlare di soldi SUBITO, sin dal primo contatto (con recruiter, HR, head hunter, whatever). "La mia desiderata è x, sono in cerca di un range fra x e y o frasi similari mettono l'accento sul fatto che a) sapete quanto volete/valete/cercate b) dettate voi le cifre c) vi aiuta a non perdere tempo eliminando da subito iter di selezione che porterebbero a RAL non in linea con quanto state cercando.
 
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 
 ##  3) Gioca bene le tue carte
@@ -134,6 +140,10 @@ Secondo una ricerca di Payscale, chi non negozia lo stipendio iniziale perde in 
 
 E secondo Hired’s State of Salaries Report, i dev che dichiarano le proprie aspettative troppo basse ricevono offerte inferiori del 10-15% rispetto alla media per lo stesso ruolo.
 
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 
 ##  4) Negoziare sul serio
@@ -174,6 +184,10 @@ Secondo un report di Stack Overflow Developer Survey, il 63% dei dev ha dichiara
 Inoltre, secondo Levels.fyi, nelle big tech USA una negoziazione ben fatta può portare a +10% di equity e +15–20% sul bonus. Anche in Italia, senza arrivare a questi livelli, una controproposta ragionata può spesso sbloccare 5–10K in più (se ben argomentata).
 
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 
 ##  5) La controproposta
 _Fare una controproposta non è mai una mancanza di gratitudine, non è maleducazione nè arroganza. È una parte normale (e sana) di qualsiasi trattativa._
@@ -208,6 +222,10 @@ Eh, anche questo fa parte del gioco. Le strade possibili sono due:
 - Se il progetto ti entusiasma e la proposta è comunque dignitosa, puoi accettare e fissare già un check a 6 o 12 mesi con review della RAL.
 - Se invece senti che il valore che ti riconoscono è troppo distante da quello che meriti, allora declinare è un atto di lucidità, non di arroganza.
 
+
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
   
 
 ##  6) Come chiedere un aumento
@@ -261,7 +279,11 @@ Se senti che il “no” è definitivo, o che non c’è una reale volontà di r
 - Restare per altri motivi (learning, stabilità, progetto), sapendo però che non è un posto dove potrai crescere economicamente.
 - Guardarti intorno. Con calma, senza fretta. Ma con la lucidità di chi non si accontenta per inerzia e con la "pace interiore" di averle comunque provate tutte in maniera strutturata, organizzata, lucida (e fidati che questo lavoro ti servirà anche per le future aziende)
 
-  
+
+  <div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
+
 
 ##  7) Bonus track: Negoziazione avanzata
 
@@ -280,6 +302,9 @@ Potresti pensare a qualcosa del genere: “Stiamo valutando insieme come far fun
 5) Non puntare a vincere, punta all’equilibrio: l’obiettivo non è fregare l’azienda o “massimizzare a tutti i costi”. L’obiettivo è trovare un accordo sostenibile, dove ti senti valorizzato e loro sentono che stai dando il giusto.
 
 
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 
 ## 8) Bonus track #2: junior vs senior
@@ -299,7 +324,9 @@ In questa fase, la tua trattativa può essere più strutturata. Hai più leva pe
 E poi ci sono i “mid”. Una terra di mezzo spesso ambigua, dove hai più esperienza di un/una junior ma non sempre le leve di un/una senior. È il momento più delicato: puoi sentirti forse sottovalutato/a, ma non hai ancora la sicurezza piena per negoziare in modo assertivo. In questi casi serve lavorare su due piani: raccogliere il più possibile (progetti, feedback, risultati) e prepararsi al salto, anche aspettando il momento giusto – un nuovo progetto, una promozione interna, un’offerta esterna per sbloccare la situazione.
 
 
-
+<div align="right">
+  <b><a href="#indice">↥ Back To Top</a></b>
+</div>
 
 
 
