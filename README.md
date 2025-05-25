@@ -140,22 +140,26 @@ Inoltre, secondo Levels.fyi, nelle big tech USA una negoziazione ben fatta può 
 
 ## 5) Come fare una controproposta
 Fare una controproposta non è mai una mancanza di gratitudine, non è maleducazione nè arroganza. È una parte normale (e sana) di qualsiasi trattativa.
+
+
 Chi ti fa un’offerta si aspetta, in modo più o meno esplicito, che tu possa voler negoziare. Il modo in cui lo fai conta, certo, ma il fatto stesso di farlo non è un problema, anzi: dimostra che sai cosa vuoi, che conosci il mercato, che non sei alla ricerca disperata di “qualcosa, qualsiasi cosa, basta che mi assumete".
 Sii specifico! Non dire “vorrei qualcosa in più”, ma magari qualcosa del tipo “Mi aspettavo una RAL più vicina ai 55K, sulla base del ruolo, del mio background e dei benchmark che ho raccolto”.
 Argomenta, non supplicare! Non stai chiedendo un favore. Stai portando dati, facendo una proposta che ha senso per te. Se serve, evidenzia cosa stai portando in tavola: esperienza, impatto, autonomia, know-how raro.
 Mostrati aperto! Non devi tirare su un muro, prova ad essere assertivo/a. Una buona frase potrebbe ad esempio essere: “Mi piacerebbe trovare un punto d’incontro che valorizzi al meglio questa opportunità per entrambi”.
+
+
 Non andare in modalità "ultimatum"! A meno che tu non sia disposto a mollare tutto davvero, evita frasi come “o mi date 10K in più o niente”. Meglio: “Quello che mi blocca oggi nel dire sì è solo l’aspetto economico: se riuscissimo ad avvicinarci a X, accetterei volentieri”.
 Metti tutto in ordine scritto! Se la controproposta avviene al telefono o in call, manda un breve recap per iscritto. Avere tutto chiaro aiuta entrambe le parti.
 
 Un esempio pratico:
 
 **Email**
-
 Ciao [Nome],
 grazie per l’offerta e per la disponibilità mostrata durante tutto il processo.
 Mi ha fatto piacere riceverla, e sono molto interessato al progetto ed in generale sarei felice di entrare in [nome azienda].
 Ho valutato con attenzione i termini, e rispetto alle mie aspettative iniziali (costruite su ruolo, responsabilità, e benchmark di mercato), mi aspettavo una proposta leggermente più alta: idealmente intorno ai x–y K.
 Se riuscissimo ad avvicinarci a quel range — anche considerando eventuali benefit o alternative alla RAL pura — sarei felice di accettare e iniziare questa collaborazione.
+
 
 Questa rapida mail è empatica, lascia apertura, dimostra un ragionamento dietro al voler chiedere più soldi, lascia spazio ad un dialogo fra persone adulte (che, ovviamente, vogliono sì fare i "loro interessi" ma hanno evidentemente entrambe volontà di raggiungere un buon compromesso/accordo).
 
@@ -164,4 +168,54 @@ Eh, anche questo fa parte del gioco. Le strade possibili sono due:
 
 - Se il progetto ti entusiasma e la proposta è comunque dignitosa, puoi accettare e fissare già un check a 6 o 12 mesi con review della RAL.
 - Se invece senti che il valore che ti riconoscono è troppo distante da quello che meriti, allora declinare è un atto di lucidità, non di arroganza.
+
+## 6) Come chiedere un aumento
+
+Sei stato assunto. I mesi/anni passano, ma oh, c'è qualcosa che non ti soddisfa: per quello che fai/per il valore che porti/per le persone-progetti che gestisci non sei soddisfatto economicamente. 
+Primo mito da sfatare: “Se lavoro bene, se ne accorgeranno” Ecco, proprio no. O meglio, le aziende "illuminate" (o, banalmente, aziende che dovrebbero essere considerate "normali") ce ne sono POCHISSIME.
+Spesso chi gestisce team o budget ha troppe cose in ballo, e non tiene aggiornato un foglio Excel con il tuo impatto. Se, quindi, non chiedi rischi di restare fermo. E intanto l’inflazione ti saluta.
+
+Quindi, quando ha senso iniziare a muoversi per chiedere un aumento? A mio avviso potrebbe essere sensato ragionare su alcuni scenari:
+- Dopo 12 mesi dall'ingresso, se non ci sono stati aumenti automatici.
+- Dopo un cambio di ruolo/responsabilità (es: da dev a tech lead, anche se il contratto è rimasto lo stesso).
+- Quando porti impatto misurabile: hai automatizzato, migliorato, ottimizzato, sbloccato, guidato.
+- Dopo una valutazione annuale positiva, se non è seguita da adeguamento economico.
+- Quando hai ricevuto offerte esterne competitive (ma attenzione: non è ricatto, dev’essere reale e gestito con tatto, se la tua intenzione è rimanere).
+
+Ma attenzione, c'è anche da ragionare su quando NON è il momento:
+
+- Se sei appena entrato da 3 mesi e non hai ancora finito l’onboarding.
+- Se chiedi solo perché hai scoperto che il collega prende di più (giusto incazzarsi, ma serve una strategia).
+- Se usi il “voglio più soldi o me ne vado” senza un reale piano b (il ragequit lasciamolo ai videogiochi)
+- Se sei nel mezzo di una crisi aziendale profonda (perché il timing è tutto, purtroppo).
+
+**La strategia giusta per chiedere un aumento**
+Prepara un mini dossier/delle slide/un excel/un canva/quel che ti pare dove esponi (scegliendo bene il momento giusto e le persone giuste alle quali presentare il documento):
+
+1) Cosa facevi quando sei entrato, cosa fai oggi
+2) Cosa hai portato: progetti, risultati, metriche
+3) Feedback positivi ricevuti (clienti, manager, team)
+4) Benchmark salariali attuali per il tuo ruolo
+
+Fai una richiesta chiara, qualcosa del tipo “Vorrei confrontarmi sulla possibilità di un adeguamento economico. Negli ultimi 12 mesi il mio ruolo è cresciuto molto, sto gestendo X, ho portato Y, e da benchmark aggiornati una RAL più allineata sarebbe tra Z e Z+5K. Possiamo ragionarci?”
+Sii aperto al dialogo! A volte otterrai un sì subito. Altre volte ti diranno “ok, ma tra tre mesi”. Bene. Chiedi che venga messo a calendario un follow-up scritto. Se ti dicono “ne riparliamo più avanti”, chiedi quando esattamente. “Più avanti” non paga l’affitto.
+Anche qui alcuni ricerche a supporto:
+- Secondo Glassdoor, il 70% delle persone che chiedono un aumento ottiene qualcosa.
+- Secondo Hays Italia, nel 2024 gli aumenti medi concessi in fase di “retention” (cioè per non farti scappare) sono stati tra il 5% e il 12%, ma chi chiede ottiene di più rispetto a chi aspetta.
+- Uno studio di Payscale mostra che chi cambia lavoro per motivi economici ottiene in media un aumento del 15%, mentre chi resta nello stesso ruolo per più di 2 anni senza rinegoziare spesso perde potere d’acquisto.
+
+E se va tutto male ed arriva la risposta "no, niente aumento"? Eh, alcune possibili strategie potrebbero essere:
+1) Chiedi perché. Non “perché no?” in modalità offesa, ma con spirito costruttivo: “mi aiuteresti a capire meglio cosa serve per poterci arrivare nei prossimi mesi?” Stai chiedendo coordinate, non conferme emotive. È come ottenere la mappa per uscire dal labirinto.
+2) Costruisci un piano, se ad esempio ti dicono: “non c'è budget ora (un grandissimo classico)” chiedi se è un tema momentaneo e quando ci sarà una nuova finestra decisionale.
+3) Ti manca ancora X per arrivarci”: chiedi di esplicitare bene cosa significa X. Meglio se scrivono due righe in un documento, anche interno. Scripta manent, SEMPRE
+4) Chiedi un follow-up scritto: non lasciare che la promessa si perda tra mille call! “Ok perfetto, posso segnarmi un check tra 3 mesi e ne riparliamo con i dati alla mano?”
+5) Metti una data sul calendario. Fallo tu, se serve. Insomma, stagli "addosso".
+
+E se, dopo aver provato tutto ciò, capisci che non arriverà mai?
+Se senti che il “no” è definitivo, o che non c’è una reale volontà di riconoscere il tuo valore, hai due strade:
+
+- Restare per altri motivi (learning, stabilità, progetto), sapendo però che non è un posto dove potrai crescere economicamente.
+- Guardarti intorno. Con calma, senza fretta. Ma con la lucidità di chi non si accontenta per inerzia e con la "pace interiore" di averle comunque provate tutte in maniera strutturata, organizzata, lucida (e fidati che questo lavoro ti servirà anche per le future aziende)
+
+##  7) Negoziazione avanzata
 
