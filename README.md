@@ -39,6 +39,8 @@ Bene, direi che possiamo partire!
 
 🌵 8. [Bonus track #2: junior vs senior](#8-bonus-track-#2-junior-vs-senior)
 
+💡 9. [Bonus track #3: frelance](#9-bonus-track-#3-freelance)
+
 
 
 
@@ -329,4 +331,14 @@ E poi ci sono i “mid”. Una terra di mezzo spesso ambigua, dove hai più espe
 </div>
 
 
+## 9) Bonus track #3: freelance
+_la tariffa non si improvvisa!_
+
+Se lavori come freelance, la negoziazione è parte integrante della tua sopravvivenza professionale. Non si tratta solo di “farsi pagare bene”: si tratta di costruire un business sostenibile, in cui la tua tariffa oraria o giornaliera (o a progetto) rifletta il valore che porti, i costi che sostieni e il rischio che ti assumi.
+
+Il primo errore comune? Pensare da dipendente con la Partita IVA. Se ti senti dire “ti paghiamo 2000€ al mese, sei freelance ma lavori solo per noi, con orari fissi, ferie concordate, e niente clienti esterni" quello non è essere un/una freelance, è lavoro subordinato mascherato. E spesso è anche illegale. Essere freelance infatti non significa solo avere una fattura e un/una commercialista: significa libertà contrattuale, gestione autonoma del lavoro, capacità di scegliere clienti, ritmi e modalità operative. E questo ha un prezzo.
+
+Calcolare la propria tariffa non si fa “guardando cosa chiedono gli altri su LinkedIn” (o meglio: un confronto magari nelle communities con altri professionisti è SANISSIMO, ma quella è la base di partenza). Si parte dai costi vivi: tasse, contributi, ferie, malattie, formazione, aggiornamento, strumenti, gestione clienti. Si somma il valore del tuo tempo, della tua expertise, e del fatto che, a differenza di un dipendente, nessuno ti paga i “tempi morti”. Il risultato sarà spesso più alto di quello che ti aspetti. E deve esserlo.
+
+Se sei freelance e stai ancora ragionando in “RAL convertita in P.IVA”, stai iniziando male. La domanda corretta non è “quanto si guadagna?” ma “quanto serve guadagnare per vivere bene, lavorare in modo sostenibile e crescere?”. E da lì, costruisci. Con chiarezza, fermezza e, se serve, anche rifiutando i clienti che non rispettano il tuo ruolo.
 
