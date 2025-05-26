@@ -12,7 +12,7 @@ Ecco quindi un paio di considerazioni da tenere a mente PRIMA di leggere questa 
   
 - Non dobbiamo essere tutti/e delle rockstar: fare l'operaio del codice, fare il "normale" 9-18 in una "normale " azienda VA BENISSIMO! Non tutti dobbiamo per forza aspirare alla super azienda fighissima che manda razzi su marte. C'è però da porre l'attenzione su un punto importantissimo: ok essere dipendenti "normali", ma non facciamoci prendere in giro da aziende con mille Red flag che non ci fanno crescere professionalmente, che non ci trattano dignitosamente, che non ci pagano quanto dovrebbero. Operaio sì, ma non stronzo/a!
   
-- È normale parlare di soldi, abituatevi: non se ne parla mai abbastanza, i soldi sono un tabù, "che schifo i soldi". Ed invece no: nessuno/a di noi lavora per la gloria, tutti/e lavoriamo per i soldi. Quindi, di soldi bisogna parlarne SEMPRE E SUBITO (che sia un messaggio ricevuto da un/una recruiter, durante un colloquio, quando si arriva in un'azienda, etc etc). I soldi non sono tutto, ma chiariamo un punto: il lavoro è (banalmente) un tradeoff fra il vostro tempo e le vostre conoscenze e il bisogno dell'azienda. E' uno scambio (valore vs stipendio). So che forse è molto riduttivo vederla in questo modo ma quando bisogna affrontare una negoziazione, ahimé, bisogna "spegnere il cuore" ed "accendere il cervello" e vederla in maniera scientifica e razionale.
+- E' normale parlare di soldi, abituatevi: non se ne parla mai abbastanza, i soldi sono un tabù, "che schifo i soldi". Ed invece no: nessuno/a di noi lavora per la gloria, tutti/e lavoriamo per i soldi. Quindi, di soldi bisogna parlarne SEMPRE E SUBITO (che sia un messaggio ricevuto da un/una recruiter, durante un colloquio, quando si arriva in un'azienda, etc etc). I soldi non sono tutto, ma chiariamo un punto: il lavoro è (banalmente) un tradeoff fra il vostro tempo e le vostre conoscenze e il bisogno dell'azienda. E' uno scambio (valore vs stipendio). So che forse è molto riduttivo vederla in questo modo ma quando bisogna affrontare una negoziazione, ahimé, bisogna "spegnere il cuore" ed "accendere il cervello" e vederla in maniera scientifica e razionale.
 
 
 Disclaimer #2: buona parte di questa guida è scritta con l'ausilio dell'AI. Nessun becero copia-incolla ma un lavoro congiunto di indice, argomenti migliori, spunti di riflessione, fonti e dati di mercato. Ormai l'AI (nello specifico, Chatgpt) lavora fianco a fianco con me da mesi e conosce quasi perfettamente il mio tone of voice, e ci sono molte cose che l'AI ha scritto che avrei scritto io quasi del tutto. 
@@ -39,7 +39,7 @@ Bene, direi che possiamo partire!
 
 🌵 8. [Bonus track #2: junior vs senior](#8-bonus-track-#2-junior-vs-senior)
 
-💡 9. [Bonus track #3: freelance](#9-bonus-track-#3-freelance)
+💡 9. [Bonus track #3: frelance](#9-bonus-track-#3-freelance)
 
 
 
@@ -98,15 +98,19 @@ _Conoscere il proprio valore di mercato_
 Prima di arrivare ad un colloquio (anzi, prima ancora di scrivere il cv, mandare candidature ed in generale pensare solo di approcciarti al mercato per cercare lavoro), è FONDAMENTALE sapere quanto vale il tuo profilo nel mercato attuale: questo ti permette di avere aspettative realistiche e di negoziare con cognizione di causa.
 Prima di tutto, parti dagli elementi OGGETTIVI, misurabili, controllabili online e "reali". Ad esempio, per approfondire e ottenere dati aggiornati puoi usare diverse fonti ( [Glassdoor](https://glassdoor.com), [levels.fyi](https://levels.fyi), [techcompenso.com](https://techcompenso.com), [Payscale](https://payscale.com), [LinkedIn Salary](https://www.linkedin.com/company/linkedin-salary/), chiedere nelle communities, leggere le recensioni online, spulciare i bilanci (spoiler: sono spesso gratuiti e pubblici. Non vorrai mica farti assumere da un'azienda che sta fallendo, no?). 
 
-Dopodiché aggiungi all'equazione gli elementi SOGGETTIVI e personali che ti riguardano: quanto mi serve per vivere? A quanto voglio arrivare come RAL? Remoto, ibrido, sede? Ho la macchina aziendale? Ho un mutuo? Figli? Cani? Procioni? Insomma, metti nell'equazione tutta una serie di elementi della tua persona che ovviamente conosci solo, in modo tale da unire gli elementi oggettivi con i soggettivi ed avere un'idea oggettiva di un range numerico nel quale vorresti stare.
+Dopodiché aggiungi all'equazione gli elementi SOGGETTIVI e personali che ti riguardano: quanto mi serve per vivere? A quanto voglio arrivare come RAL? Remoto, ibrido, sede? Ho la macchina aziendale? Ho un mutuo? Figli? Cani? Procioni? Insomma, metti nell'equazione tutta una serie di elementi della tua persona che ovviamente conosci solo tu, in modo tale da unire gli elementi oggettivi con i soggettivi ed avere un'idea bilanciata di un range numerico nel quale vorresti stare.
 
 Oltre ai numeri, è importante ad esempio analizzare l'azienda: dimensioni, settore, fase di crescita e cultura aziendale possono influenzare la capacità e la volontà di offrire determinati pacchetti retributivi.
 IMPORTANTISSIMO: prima di arrivare al colloquio è FONDAMENTALE non fornire mai dati come RAL attuale, busta paga o altre informazioni del genere. Come mai? Beh, perché dando questi dati sostanzialmente perdi il 99% del tuo potere negoziale.
 
 E' assolutamente legale chiedere la busta paga (molti pensano che sia illegale), ma è altrettanto lecito rifiutarsi di fornirla. 
 
-Inoltre, è sempre bene parlare di soldi SUBITO, sin dal primo contatto (con recruiter, HR, head hunter, whatever). "La mia desiderata è x, sono in cerca di un range fra x e y o frasi similari mettono l'accento sul fatto che a) sapete quanto volete/valete/cercate b) dettate voi le cifre c) vi aiuta a non perdere tempo eliminando da subito iter di selezione che porterebbero a RAL non in linea con quanto state cercando.
-
+Inoltre, è sempre bene parlare di soldi SUBITO, sin dal primo contatto (con recruiter, HR, head hunter, whatever). "La mia desiderata è x, sono in cerca di un range fra x e y o frasi similari mettono l'accento sul fatto che
+<ol>
+  <li>sapete quanto volete/valete/cercate</li>
+  <li>dettate voi le cifre</li>
+  <li>vi aiuta a non perdere tempo eliminando da subito iter di selezione che porterebbero a RAL non in linea con quanto state cercando.</li>
+</ol>
 
 <div align="right">
   <b><a href="#indice">↥ Back To Top</a></b>
