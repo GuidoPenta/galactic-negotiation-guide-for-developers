@@ -39,7 +39,7 @@ Bene, direi che possiamo partire!
 
 🌵 8. [Bonus track #2: junior vs senior](#8-bonus-track-#2-junior-vs-senior)
 
-💡 9. [Bonus track #3: frelance](#9-bonus-track-#3-freelance)
+💡 9. [Bonus track #3: freelance](#9-bonus-track-#3-freelance)
 
 
 
