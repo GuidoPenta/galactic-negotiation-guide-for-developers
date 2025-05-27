@@ -132,16 +132,16 @@ Puoi anche non dare un numero preciso subito, ma almeno accertati di chiarire al
 - L’azienda ha margini di manovra o è “budget-locked”?
 - Se hai fatto bene il lavoro del punto 2 (ricerca e benchmark), qui non stai improvvisando: stai gestendo un’informazione fondamentale.
 
-Un'altra cosa utilissima (ed anche banale direi, ma che molte persone non fanno) è: FATE DOMANDE.  Non sei lì solo per rispondere. Sei lì anche per fare domande! E quelle giuste possono aiutarti a capire molto sul potenziale di crescita e sul valore che l’azienda assegna ai suoi developer.
+Un'altra cosa utilissima (ed anche banale direi, ma che molte persone non fanno) è: FATE DOMANDE. Non sei lì solo per rispondere. Sei lì anche per fare domande! E quelle giuste possono aiutarti a capire molto sul potenziale di crescita e sul valore che l’azienda assegna ai suoi developer.
 
-(se vuoi un buon elenco di communities, eccolo  <a href="https://github.com/GuidoPenta/awesome-italian-tech-communities">qui</a> )
+(Se vuoi un buon elenco di communities, eccolo  <a href="https://github.com/GuidoPenta/awesome-italian-tech-communities">qui</a> )
 
 In questa fase, il tuo obiettivo non è sembrare perfetto (nessuno/a è perfetto, l'azienda perfetta non esiste così come non esiste il/la candidato/a perfetto/a). È, banalmente, farti scegliere per i motivi giusti. Se ti presenti come “persona che va bene per qualsiasi ruolo a qualsiasi condizione”, trasmetti incertezza. Se invece fai capire cosa cerchi, quali sono i tuoi punti di forza, quali leve ti motivano — stai facendo personal branding in tempo reale.
 
 Essere chiari sin da subito su cosa vuoi non ti rende arrogante, ti rende allineabile. E rende più facile per l’altra parte costruire un’offerta adatta.
 
 Esempio pratico:
-"In base al mio attuale ruolo e ai benchmark che ho raccolto, mi aspetto un range che oscilla tra i 45 e i 55K, in base anche a benefit, remote policy e benefit. Voi in che range vi muovete per questo tipo di profilo?”
+"In base al mio attuale ruolo e ai benchmark che ho raccolto, mi aspetto un range che oscilla tra i 45 e i 55K, in base anche a remote policy e benefit. Voi in che range vi muovete per questo tipo di profilo?”
 Secondo una ricerca di Payscale, chi non negozia lo stipendio iniziale perde in media 1 milione di dollari lungo tutta la carriera (dato USA, ma l’effetto composizione vale ovunque).
 
 E secondo Hired’s State of Salaries Report, i/le dev che dichiarano le proprie aspettative troppo basse ricevono offerte inferiori del 10-15% rispetto alla media per lo stesso ruolo.
