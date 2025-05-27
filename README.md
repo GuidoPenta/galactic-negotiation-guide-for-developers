@@ -1,5 +1,7 @@
 # Guida galattica alla negoziazione (aumentiamo sta RAL daje su)
 
+> [English version](./docs/english.md)
+
 _Sottotitolo: Come negoziare la tua RAL senza ansia, senza perdere offerte, e senza passare per un/una mercenario/a_
 
 
