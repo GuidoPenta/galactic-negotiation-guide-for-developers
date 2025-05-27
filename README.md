@@ -12,7 +12,7 @@ Ecco quindi un paio di considerazioni da tenere a mente PRIMA di leggere questa 
   
 - Non dobbiamo essere tutti/e delle rockstar: fare l'operaio del codice, fare il "normale" 9-18 in una "normale " azienda VA BENISSIMO! Non tutti dobbiamo per forza aspirare alla super azienda fighissima che manda razzi su marte. C'è però da porre l'attenzione su un punto importantissimo: ok essere dipendenti "normali", ma non facciamoci prendere in giro da aziende con mille Red flag che non ci fanno crescere professionalmente, che non ci trattano dignitosamente, che non ci pagano quanto dovrebbero. Operaio sì, ma non stronzo/a!
   
-- E' normale parlare di soldi, abituatevi: non se ne parla mai abbastanza, i soldi sono un tabù, "che schifo i soldi". Ed invece no: nessuno/a di noi lavora per la gloria, tutti/e lavoriamo per i soldi. Quindi, di soldi bisogna parlarne SEMPRE E SUBITO (che sia un messaggio ricevuto da un/una recruiter, durante un colloquio, quando si arriva in un'azienda, etc etc). I soldi non sono tutto, ma chiariamo un punto: il lavoro è (banalmente) un tradeoff fra il vostro tempo e le vostre conoscenze e il bisogno dell'azienda. E' uno scambio (valore vs stipendio). So che forse è molto riduttivo vederla in questo modo ma quando bisogna affrontare una negoziazione, ahimé, bisogna "spegnere il cuore" ed "accendere il cervello" e vederla in maniera scientifica e razionale.
+- É normale parlare di soldi, abituatevi: non se ne parla mai abbastanza, i soldi sono un tabù, "che schifo i soldi". E invece no: nessuno/a di noi lavora per la gloria, tutti/e lavoriamo per i soldi. Quindi, di soldi bisogna parlarne SEMPRE E SUBITO (che sia un messaggio ricevuto da un/una recruiter, durante un colloquio, quando si arriva in un'azienda, etc etc). I soldi non sono tutto, ma chiariamo un punto: il lavoro è (banalmente) un tradeoff fra il vostro tempo e le vostre conoscenze e il bisogno dell'azienda. È uno scambio (valore vs stipendio). So che forse è molto riduttivo vederla in questo modo ma quando bisogna affrontare una negoziazione, ahimé, bisogna "spegnere il cuore" ed "accendere il cervello" e vederla in maniera scientifica e razionale.
 
 
 Disclaimer #2: buona parte di questa guida è scritta con l'ausilio dell'AI. Nessun becero copia-incolla ma un lavoro congiunto di indice, argomenti migliori, spunti di riflessione, fonti e dati di mercato. Ormai l'AI (nello specifico, Chatgpt) lavora fianco a fianco con me da mesi e conosce quasi perfettamente il mio tone of voice, e ci sono molte cose che l'AI ha scritto che avrei scritto io quasi del tutto. 
@@ -45,7 +45,7 @@ Bene, direi che possiamo partire!
 
 
 
-##  1) Negoziare è una abilità tecnica
+##  1) Negoziare è un'abilità tecnica
 _Perché devi imparare a negoziare (spoiler: è parte del tuo stack)_
 
 TL;DR:
@@ -54,7 +54,7 @@ Se non sai negoziare, perdi soldi. Sempre. E spesso nemmeno te ne accorgi. Molti
 Negoziare significa fare in modo che il tuo lavoro venga valutato in modo corretto. È una conversazione, non un conflitto. È un confronto tra due parti che vogliono collaborare, ma hanno interessi (legittimamente) diversi. Parliamoci chiaro: l'azienda non è una Onlus, e molto spesso
 l'obiettivo dell'azienda è pagarti il minimo pur di assumerti. Tu, dall'altro lato, devi essere capace di far percepire il tuo valore (professionale, umano, di bagaglio pregresso, etc).
 
-Nel mondo reale non ci sono quest invisibili che si completano in background mentre scrivi buon codice. Se vuoi che il tuo valore venga riconosciuto devi saperlo negoziare. Ho conosciuto tantissimi bravi dev totalmente sottopagati perché, banalmente, non hanno saputo negoziare RAL decenti (o che, peggio ancora, rimangono immobili da anni nella loro azienda attuale senza essere in grado di chiedere più soldi).
+Nel mondo reale non ci sono quest invisibili che si completano in background mentre scrivi buon codice. Se vuoi che il tuo valore venga riconosciuto devi saperlo negoziare. Ho conosciuto tantissimi bravi/e dev totalmente sottopagati perché, banalmente, non hanno saputo negoziare RAL decenti (o che, peggio ancora, rimangono immobili da anni nella loro azienda attuale senza essere in grado di chiedere più soldi).
 
 Negoziare non significa fregare l’altro/a, attenzione: significa trovare un accordo che sia sostenibile per entrambe le parti. È una skill comunicativa, ma soprattutto analitica: ci sono interessi da allineare, vincoli da capire, leve da usare. È roba tecnica, è problem solving. 
 Il che ci porta al punto cruciale: negoziare, per come la vedo io, è a tutti gli effetti una competenza tecnica. Se ottimizzi query SQL, puoi ottimizzare anche la tua prossima RAL.
@@ -95,7 +95,7 @@ In 5 anni, un/UNA dev che non negozia può perdere decine di migliaia di euro. E
 ##  2) Prima del colloquio: prepara il terreno
 _Conoscere il proprio valore di mercato_
 
-Prima di arrivare ad un colloquio (anzi, prima ancora di scrivere il cv, mandare candidature ed in generale pensare solo di approcciarti al mercato per cercare lavoro), è FONDAMENTALE sapere quanto vale il tuo profilo nel mercato attuale: questo ti permette di avere aspettative realistiche e di negoziare con cognizione di causa.
+Prima di arrivare a un colloquio (anzi, prima ancora di scrivere il cv, mandare candidature ed  in generale pensare solo di approcciarti al mercato per cercare lavoro), è FONDAMENTALE sapere quanto vale il tuo profilo nel mercato attuale: questo ti permette di avere aspettative realistiche e di negoziare con cognizione di causa.
 Prima di tutto, parti dagli elementi OGGETTIVI, misurabili, controllabili online e "reali". Ad esempio, per approfondire e ottenere dati aggiornati puoi usare diverse fonti ( [Glassdoor](https://glassdoor.com), [levels.fyi](https://levels.fyi), [techcompenso.com](https://techcompenso.com), [Payscale](https://payscale.com), [LinkedIn Salary](https://www.linkedin.com/company/linkedin-salary/), chiedere nelle communities, leggere le recensioni online, spulciare i bilanci (spoiler: sono spesso gratuiti e pubblici. Non vorrai mica farti assumere da un'azienda che sta fallendo, no?). 
 
 Dopodiché aggiungi all'equazione gli elementi SOGGETTIVI e personali che ti riguardano: quanto mi serve per vivere? A quanto voglio arrivare come RAL? Remoto, ibrido, sede? Ho la macchina aziendale? Ho un mutuo? Figli? Cani? Procioni? Insomma, metti nell'equazione tutta una serie di elementi della tua persona che ovviamente conosci solo tu, in modo tale da unire gli elementi oggettivi con i soggettivi ed avere un'idea bilanciata di un range numerico nel quale vorresti stare.
@@ -103,7 +103,7 @@ Dopodiché aggiungi all'equazione gli elementi SOGGETTIVI e personali che ti rig
 Oltre ai numeri, è importante ad esempio analizzare l'azienda: dimensioni, settore, fase di crescita e cultura aziendale possono influenzare la capacità e la volontà di offrire determinati pacchetti retributivi.
 IMPORTANTISSIMO: prima di arrivare al colloquio è FONDAMENTALE non fornire mai dati come RAL attuale, busta paga o altre informazioni del genere. Come mai? Beh, perché dando questi dati sostanzialmente perdi il 99% del tuo potere negoziale.
 
-E' assolutamente legale chiedere la busta paga (molti pensano che sia illegale), ma è altrettanto lecito rifiutarsi di fornirla. 
+È assolutamente legale chiedere la busta paga (molti pensano che sia illegale), ma è altrettanto lecito rifiutarsi di fornirla. 
 
 Inoltre, è sempre bene parlare di soldi SUBITO, sin dal primo contatto (con recruiter, HR, head hunter, whatever). "La mia desiderata è x, sono in cerca di un range fra x e y o frasi similari mettono l'accento sul fatto che
 <ol>
@@ -120,7 +120,7 @@ Inoltre, è sempre bene parlare di soldi SUBITO, sin dal primo contatto (con rec
 ##  3) Gioca bene le tue carte
 Il colloquio non è un esame, non sei lì per essere giudicato/a. Sei lì per capire se quella proposta è giusta per te, e viceversa. Ah e ricorda, il colloquio è SEMPRE a due vie: l'azienda ti sta valutando, certo, ma sei anche tu che valuti l'azienda.
 
-tanti/e dev entrano in fase di selezione con un atteggiamento passivo, quasi remissivo, come se dovessero solo sperare che "vada bene" (aka: prendo quello che capita/offrono), approccio sbagliatissimo! Ma se affronti la selezione come un one-way ticket verso il sì o il no, stai buttando via una parte importante del processo: la possibilità di orientarlo.
+Tanti/e dev entrano in fase di selezione con un atteggiamento passivo, quasi remissivo, come se dovessero solo sperare che "vada bene" (aka: prendo quello che capita/offrono), approccio sbagliatissimo! Ma se affronti la selezione come un one-way ticket verso il sì o il no, stai buttando via una parte importante del processo: la possibilità di orientarlo.
 
 Come ho già scritto nel punto precedente, ma mi ripeto: parlare di RAL? Prima è meglio! Uno degli errori più comuni è evitare di parlare di retribuzione finché non viene chiesto. 
 Ma più tardi si parla di RAL, più rischi che ci siano incomprensioni o aspettative non allineate.
@@ -144,7 +144,7 @@ Esempio pratico:
 "In base al mio attuale ruolo e ai benchmark che ho raccolto, mi aspetto un range che oscilla tra i 45 e i 55K, in base anche a benefit, remote policy e benefit. Voi in che range vi muovete per questo tipo di profilo?”
 Secondo una ricerca di Payscale, chi non negozia lo stipendio iniziale perde in media 1 milione di dollari lungo tutta la carriera (dato USA, ma l’effetto composizione vale ovunque).
 
-E secondo Hired’s State of Salaries Report, i dev che dichiarano le proprie aspettative troppo basse ricevono offerte inferiori del 10-15% rispetto alla media per lo stesso ruolo.
+E secondo Hired’s State of Salaries Report, i/le dev che dichiarano le proprie aspettative troppo basse ricevono offerte inferiori del 10-15% rispetto alla media per lo stesso ruolo.
 
 
 <div align="right">
@@ -184,7 +184,7 @@ Immagina due offerte con la stessa RAL:
 Offerta A: 40K RAL + full remote + 2.000€ budget formazione + assicurazione sanitaria + PC aziendale top.
 Offerta B: 40K RAL + 3 giorni in sede + niente formazione + laptop de mi nonno + una pacca sulla spalla
 
-Sulla carta hanno lo stesso valore economico. Ma non sono per nulla equivalenti, e a lungo termine la A ti dà più strumenti per crescere, studiare, e vivere meglio.
+Sulla carta hanno lo stesso valore economico, ma non sono per nulla equivalenti, e a lungo termine la A ti dà più strumenti per crescere, studiare, e vivere meglio.
 
 Secondo un report di Stack Overflow Developer Survey, il 63% dei dev ha dichiarato che, a parità di RAL, sceglierebbe un’azienda con maggiore flessibilità o crescita ed il 40% dei dev che ha negoziato l’offerta iniziale ha ottenuto un aumento rispetto alla proposta iniziale.
 Inoltre, secondo Levels.fyi, nelle big tech USA una negoziazione ben fatta può portare a +10% di equity e +15–20% sul bonus. Anche in Italia, senza arrivare a questi livelli, una controproposta ragionata può spesso sbloccare 5–10K in più (se ben argomentata).
@@ -204,7 +204,7 @@ Chi ti fa un’offerta si aspetta, in modo più o meno esplicito, che tu possa v
 Sii specifico/a! Non dire “vorrei qualcosa in più”, ma magari qualcosa del tipo “Mi aspettavo una RAL più vicina ai 55K, sulla base del ruolo, del mio background e dei benchmark che ho raccolto”.
 Argomenta, non supplicare! Non stai chiedendo un favore. Stai portando dati, facendo una proposta che ha senso per te. Se serve, evidenzia cosa stai portando in tavola: esperienza, impatto, autonomia, know-how raro.
 
-Mostrati aperto! Non devi tirare su un muro, prova ad essere assertivo/a. Una buona frase potrebbe ad esempio essere: “Mi piacerebbe trovare un punto d’incontro che valorizzi al meglio questa opportunità per entrambi”.
+Mostrati aperto/a! Non devi tirare su un muro, prova ad essere assertivo/a. Una buona frase potrebbe ad esempio essere: “Mi piacerebbe trovare un punto d’incontro che valorizzi al meglio questa opportunità per entrambi”.
 
 Non andare in modalità "ultimatum"! A meno che tu non sia disposto a mollare tutto davvero, evita frasi come “o mi date 10K in più o niente”. Meglio: “Quello che mi blocca oggi nel dire sì è solo l’aspetto economico: se riuscissimo ad avvicinarci a X, accetterei volentieri”.
 Metti tutto in ordine scritto! Se la controproposta avviene al telefono o in call, manda un breve recap per iscritto. Avere tutto chiaro aiuta entrambe le parti.
@@ -220,7 +220,7 @@ Ho valutato con attenzione i termini, e rispetto alle mie aspettative iniziali (
 Se riuscissimo ad avvicinarci a quel range — anche considerando eventuali benefit o alternative alla RAL pura — sarei felice di accettare e iniziare questa collaborazione.
 
 
-Questa rapida mail è empatica, lascia apertura, dimostra un ragionamento dietro al voler chiedere più soldi, lascia spazio ad un dialogo fra persone adulte (che, ovviamente, vogliono sì fare i "loro interessi" ma hanno evidentemente entrambe volontà di raggiungere un buon compromesso/accordo).
+Questa rapida mail è empatica, lascia apertura, dimostra un ragionamento dietro al voler chiedere più soldi, lascia spazio a un dialogo fra persone adulte (che, ovviamente, vogliono sì fare i "loro interessi" ma hanno evidentemente entrambe volontà di raggiungere un buon compromesso/accordo).
 
 E se va male?
 Eh, anche questo fa parte del gioco. Le strade possibili sono due:
@@ -236,8 +236,8 @@ Eh, anche questo fa parte del gioco. Le strade possibili sono due:
 
 ##  6) Come chiedere un aumento
 
-Sei stato assunto. I mesi/anni passano, ma oh, c'è qualcosa che non ti soddisfa: per quello che fai/per il valore che porti/per le persone-progetti che gestisci non sei soddisfatto economicamente. 
-Primo mito da sfatare: “Se lavoro bene, se ne accorgeranno” Ecco, proprio no. O meglio, le aziende "illuminate" (o, banalmente, aziende che dovrebbero essere considerate "normali") ce ne sono POCHISSIME.
+Sei stato/a assunto/a. I mesi/anni passano, ma oh, c'è qualcosa che non ti soddisfa: per quello che fai/per il valore che porti/per le persone-progetti che gestisci non sei soddisfatto economicamente. 
+Primo mito da sfatare: “Se lavoro bene, se ne accorgeranno” Ecco, proprio no. O meglio, le aziende "illuminate" (o, banalmente, aziende che dovrebbero essere considerate "normali") sono POCHISSIME.
 Spesso chi gestisce team o budget ha troppe cose in ballo, e non tiene aggiornato un foglio Excel con il tuo impatto. Se, quindi, non chiedi rischi di restare fermo. E intanto l’inflazione ti saluta.
 
 Quindi, quando ha senso iniziare a muoversi per chiedere un aumento? A mio avviso potrebbe essere sensato ragionare su alcuni scenari:
@@ -249,13 +249,14 @@ Quindi, quando ha senso iniziare a muoversi per chiedere un aumento? A mio avvis
 
 Ma attenzione, c'è anche da ragionare su quando NON è il momento:
 
-- Se sei appena entrato da 3 mesi e non hai ancora finito l’onboarding.
-- Se chiedi solo perché hai scoperto che il collega prende di più (giusto incazzarsi, ma serve una strategia).
-- Se usi il “voglio più soldi o me ne vado” senza un reale piano b (il ragequit lasciamolo ai videogiochi)
+- Se sei appena entrato/a da 3 mesi e non hai ancora finito l’onboarding.
+- Se chiedi solo perché hai scoperto che il/la collega prende di più (giusto incazzarsi, ma serve una strategia).
+- Se usi il “voglio più soldi o me ne vado” senza un reale piano B (il ragequit lasciamolo ai videogiochi)
 - Se sei nel mezzo di una crisi aziendale profonda (perché il timing è tutto, purtroppo).
 
 **La strategia giusta per chiedere un aumento**
-Prepara un mini dossier/delle slide/un excel/un canva/quel che ti pare dove esponi (scegliendo bene il momento giusto e le persone giuste alle quali presentare il documento):
+
+Prepara un mini dossier/delle slide/un Excel/un Canva/quel che ti pare dove esponi (scegliendo bene il momento giusto e le persone giuste alle quali presentare il documento):
 
 1) Cosa facevi quando sei entrato, cosa fai oggi
 2) Cosa hai portato: progetti, risultati, metriche
@@ -263,7 +264,7 @@ Prepara un mini dossier/delle slide/un excel/un canva/quel che ti pare dove espo
 4) Benchmark salariali attuali per il tuo ruolo
 
 Fai una richiesta chiara, qualcosa del tipo “Vorrei confrontarmi sulla possibilità di un adeguamento economico. Negli ultimi 12 mesi il mio ruolo è cresciuto molto, sto gestendo X, ho portato Y, e da benchmark aggiornati una RAL più allineata sarebbe tra Z e Z+5K. Possiamo ragionarci?”
-Sii aperto al dialogo! A volte otterrai un sì subito. Altre volte ti diranno “ok, ma tra tre mesi”. Bene. Chiedi che venga messo a calendario un follow-up scritto. Se ti dicono “ne riparliamo più avanti”, chiedi quando esattamente. “Più avanti” non paga l’affitto.
+Sii aperto/a al dialogo! A volte otterrai un sì subito. Altre volte ti diranno “ok, ma tra tre mesi”. Bene. Chiedi che venga messo a calendario un follow-up scritto. Se ti dicono “ne riparliamo più avanti”, chiedi quando esattamente. “Più avanti” non paga l’affitto.
 
 Anche qui alcuni ricerche a supporto:
 - Secondo Glassdoor, il 70% delle persone che chiedono un aumento ottiene qualcosa.
@@ -305,7 +306,7 @@ Potresti pensare a qualcosa del genere: “Stiamo valutando insieme come far fun
 2) Allenati con la tecnica del “disarmo gentile”: quando dici qualcosa di potenzialmente “forte” (tipo: “vorrei 10K in più”), puoi ammorbidire il tono, non il messaggio. Ad esempio: “So che può sembrare una cifra importante, ma credo rifletta bene il valore e il mercato attuale" oppure qualcosa del tipo “Mi rendo conto che è una richiesta impegnativa, ed è proprio per questo che ci tenevo a parlarne apertamente.” Questo non toglie forza alla tua posizione, ma trasmette sicurezza e rispetto.
 3) Fai pratica ad alta voce! Sembra stupido, ma non lo è affatto (non avete idea di quanti colloqui ho fatto con persone che parlavano a monosillabi e quando iniziavamo a parlare di soldi era tutto un "ehm" "uhm" "non lo so" "fai tu"). Prova a dire a voce alta la tua richiesta davanti allo specchio, oppure a una persona di fiducia: “Vorrei chiedere un aumento”, “mi aspettavo una RAL più vicina ai 50K,” “Secondo le analisi che ho effettuato online, per un ruolo con queste responsabilità, la media è di…” daje su, meno balbettii, più lucidità.
 4) Lascia spazio ai silenzi: quando dici la tua richiesta, non devi riempire il silenzio subito dopo. Fai la tua proposta e stai zitto. Davvero. Impara ad "ascoltare" la stanza (o la call), il non verbale, le microespressioni. TI PREGO NIENTE ROBE TIPO “...cioè ovviamente se non si può va bene lo stesso eh” che equivale alla morte TOTALE della trattativa.
-5) Non puntare a vincere, punta all’equilibrio: l’obiettivo non è fregare l’azienda o “massimizzare a tutti i costi”. L’obiettivo è trovare un accordo sostenibile, dove ti senti valorizzato e loro sentono che stai dando il giusto.
+5) Non puntare a vincere, punta all’equilibrio: l’obiettivo non è fregare l’azienda o “massimizzare a tutti i costi”. L’obiettivo è trovare un accordo sostenibile, dove ti senti valorizzato/a e loro sentono che stai dando il giusto.
 
 
 <div align="right">
@@ -317,7 +318,7 @@ Potresti pensare a qualcosa del genere: “Stiamo valutando insieme come far fun
 
 Negoziare non è un’abilità universale applicata sempre allo stesso modo: cambia un botto a seconda di dove ti trovi nel tuo percorso professionale. Che tu sia junior, mid o senior, puoi e devi (anzi, dovresti) negoziare, ma è fondamentale adattare il come e il cosa porti in trattativa. Le aspettative devono essere realistiche, ma mai al ribasso.
 
-Se sei all’inizio, diciamo nei primi 0–2 anni di esperienza, è normale sentirsi in una posizione più fragile. Non hai (ancora) una lunga lista di referenze, progetti concreti/reali alle spalle o architetture distribuite da vantare. Ma questo non significa che tu debba accettare qualunque offerta come fosse un favore. Anzi, proprio da junior è importante iniziare a costruire il proprio rapporto con la trattativa: come qualcosa di sano, non come un tabù.
+Se sei all’inizio, diciamo nei primi 0–2 anni di esperienza, è normale sentirsi in una posizione più fragile. Non hai (ancora) una lunga lista di referenze, progetti concreti/reali alle spalle o architetture distribuite da vantare. Questo non significa che tu debba accettare qualunque offerta come fosse un favore. Anzi, proprio da junior è importante iniziare a costruire il proprio rapporto con la trattativa: come qualcosa di sano, non come un tabù.
 
 Da junior, puoi valorizzare molto di più di quanto pensi. La tua formazione conta: se hai fatto un bootcamp serio (ehm), una buona università, un master tecnico o anche corsi online intensivi, non tenerlo nascosto. I tuoi progetti personali contano: se hai un GitHub attivo (TI PREGO FATTI UN GITHUB CON DEI PROGETTI COME SI DEVE AMICO/A JUNIOR), se hai fatto lavori da freelance, se hai contribuito a progetti open source, portali in evidenza. E contano anche le soft skill: la tua voglia di imparare, la costanza, la comunicazione, la puntualità, la chiarezza. Non sono bonus: sono fondamentali.
 
